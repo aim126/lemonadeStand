@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Day.cs" />
+    <Compile Include="Pitcher.cs" />
+    <Compile Include="Recipe.cs" />
     <Compile Include="Cup.cs" />
     <Compile Include="IceCube.cs" />
     <Compile Include="Inventory.cs" />
